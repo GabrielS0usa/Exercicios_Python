@@ -10,7 +10,7 @@ auth_token  = "f1c0b9eb2052616ae294bc04630ada36"
 client = Client(account_sid, auth_token)
 
 #Passo a passo da silução 
-# Twilio senha: G@briell06052003
+# Twilio senha: 
 # Abrir os 6 arquivos em Excel
 lista_meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho']
 
