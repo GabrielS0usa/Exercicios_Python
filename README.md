@@ -1,2 +1,2 @@
-# Exercicios_Python
- Exercicios python que eu fiz para aprender 
+# Exercícios_Python
+ Exercícios python que eu fiz para aprender 
